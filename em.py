@@ -28,7 +28,7 @@ def fireworks():
 # Eid text animation
 def eid_text():
     colors = ['red', 'green', 'yellow', 'blue', 'magenta', 'cyan', 'white']
-    text = "Eid Mubarak!"
+    text = "Eid Mubarak !"
 
     for i in range(10):
         clear()
