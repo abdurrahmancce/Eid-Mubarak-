@@ -48,3 +48,9 @@ Pull requests are welcome.
 
 ✨ May Allah bring peace, happiness, and success to your life. ✨
            🌙 Eid Mubarak 🌙
+
+---
+
+## 📜 License
+
+This project is open-source and free to use.
