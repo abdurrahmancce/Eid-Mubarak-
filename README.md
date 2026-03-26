@@ -54,3 +54,15 @@ Pull requests are welcome.
 ## 📜 License
 
 This project is open-source and free to use.
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+⭐ Star the repository
+
+🍴 Fork it
+
+📢 Share with others
